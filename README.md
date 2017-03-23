@@ -4,6 +4,9 @@
 
 - DCGAN-Tensorflow by carpedm20 [(see code here)](https://github.com/carpedm20/DCGAN-tensorflow)
   - [celebA 64x64](https://github.com/carpedm20/DCGAN-tensorflow/tree/master/web/js) (.js file)
+- DCGAN.torch by soumith
+  - [celebA (size?)](https://github.com/soumith/lfs/raw/master/dcgan.torch/celebA_25_net_G.t7)
+  - [LSUN bedrooms (size?)](https://github.com/soumith/lfs/raw/master/dcgan.torch/bedrooms_4_net_G.t7)
 - DCGANs trained for use with iGAN [(see code here)](https://github.com/junyanz/iGAN)
   - [churches 64x64](https://people.eecs.berkeley.edu/~junyanz/projects/gvm/models/theano_dcgan/church_64.dcgan_theano)
   - [handbags 64x64](https://people.eecs.berkeley.edu/~junyanz/projects/gvm/models/theano_dcgan/handbag_64.dcgan_theano)
