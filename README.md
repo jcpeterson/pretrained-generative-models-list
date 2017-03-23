@@ -1,0 +1,1 @@
+# pretrained-generative-models-list
