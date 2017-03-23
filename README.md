@@ -1,6 +1,6 @@
 # Pretrained Generative Models List
 
-## Basic (Unconditional, Unsupervised)
+### Basic (Unconditional, Unsupervised)
 
 - DCGAN-Tensorflow by carpedm20 [(see code here)](https://github.com/carpedm20/DCGAN-tensorflow)
   - [celebA 64x64](https://github.com/carpedm20/DCGAN-tensorflow/tree/master/web/js) (.js file)
