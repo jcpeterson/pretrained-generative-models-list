@@ -1,4 +1,4 @@
-Pretrained Generative Models List
+# Pretrained Generative Models List
 
 Basic (Unconditional, Unsupervised)
 
