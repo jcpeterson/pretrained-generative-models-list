@@ -15,6 +15,9 @@
   - [hed shoes 64x64](https://people.eecs.berkeley.edu/~junyanz/projects/gvm/models/theano_dcgan/hed_shoes_64.dcgan_theano)
   - [outdoor 64x64](https://people.eecs.berkeley.edu/~junyanz/projects/gvm/models/theano_dcgan/outdoor_64.dcgan_theano)
   - [shoes 64x64](https://people.eecs.berkeley.edu/~junyanz/projects/gvm/models/theano_dcgan/shoes_64.dcgan_theano)
+  
+- DFC-VAE by houxianxu [(see code here)](https://github.com/houxianxu/DFC-VAE)
+  - celebA ([encoder](https://drive.google.com/open?id=0B2Nu6PGoZ7p4UDRpYUcxOW9Rd2s)/[decoder](https://drive.google.com/open?id=0B2Nu6PGoZ7p4ZHRMTnFrUXVIck0))
 
 
 
